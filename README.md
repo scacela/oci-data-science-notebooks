@@ -8,3 +8,4 @@ Use your own values where values are missing or where otherwise indicated.
 #### Services used
 - OCI AI Document Understanding
 - OCI Data Science
+- OCI Object Storage
